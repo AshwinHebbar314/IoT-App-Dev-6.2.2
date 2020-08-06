@@ -1,6 +1,7 @@
 # IoT-App-Dev-6.2.2
 2. Timer and clock app
 
+Video Link of app working: https://www.youtube.com/watch?v=AZGi9zLGWDo
 
 [STATUS: COMPLETED] 
 ______________________________________________________________________________________________________
